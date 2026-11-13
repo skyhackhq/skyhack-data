@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-11-13T17:45:08.518870+00:00",
+  "run_date": "2026-11-13",
+  "failure_count": 0,
+  "options": {
+    "programs": [
+      "DL"
+    ],
+    "cabins": [
+      "economy"
+    ],
+    "origins": [
+      "LAX",
+      "JFK",
+      "SFO"
+    ],
+    "max_stops": [
+      null
+    ]
+  },
+  "combos": [
+    {
+      "key": "DL-economy",
+      "program": "DL",
+      "cabin": "economy",
+      "max_stops": null,
+      "origins": [
+        "LAX",
+        "JFK",
+        "SFO"
+      ],
+      "run_date": "2026-11-13",
+      "generated_at": "2026-11-13T17:45:08.518870+00:00",
+      "deal_count": 298,
+      "eei_min": 0.0723,
+      "eei_max": 1.0,
+      "file": "combos/DL-economy.json"
+    }
+  ]
+}
